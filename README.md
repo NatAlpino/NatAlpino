@@ -1,8 +1,8 @@
 ## Olá! Seja bem vinda(o) ao meu GitHub ❤️💻🖱️💾☕❤️
 
 <br/>Sou a Natália Alpino, mas podem me chamar de Nat.<br/>
-<br/>Uma ex administradora em transição de carreira, que sempre foi apaixonada por lógica e em transformar a vida das pessoas atráves do seu trabalho.<br/>
-<br/>Agora decidi unir isso a minha mais nova paixão, a tecnologia.
+<br/>Uma ex administradora em transição de carreira, que sempre foi apaixonada por lógica e em transformar vidas atráves do seu trabalho. Agora decidi unir isso a minha mais nova paixão, a tecnologia.<br/>
+
  <div>
   <a href="https://github.com/NatAlpino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatAlpino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
