@@ -1,7 +1,7 @@
 ## Olá! Seja bem vinda(o) ao meu GitHub ❤️💻🖱️💾☕❤️
 
 <br/>Sou a Natália Alpino, mas podem me chamar de Nat.<br/>
-<br/>Uma ex administradora em transição de carreira para a tecnologia, que sempre foi apaixonada por lógica e em transformar a vida das pessoas atráves do seu trabalho.<br/>
+<br/>Uma ex administradora em transição de carreira, que sempre foi apaixonada por lógica e em transformar a vida das pessoas atráves do seu trabalho.<br/>
 <br/>Agora decidi unir isso a minha mais nova paixão, a tecnologia.
  <div>
   <a href="https://github.com/NatAlpino">
