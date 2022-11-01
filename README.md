@@ -4,11 +4,11 @@
    <img align="right" alt="Gif 1" height="100" src="https://cdn.discordapp.com/attachments/721420818315477133/883792465642024980/gif_1.gif">
 </div>
 
-<p>Sou a Natália Alpino, mas podem me chamar de Nat./>
-<p>Sempre fui apaixonada por lógica e em transformar vidas atráves do meu trabalho./>
-<br>Então decidi unir isso a minha outra paixão, a tecnologia.</br>
-<br>Adoro aprender novas tecnologias e estar em constante evolução.</br>
-<br>Estou sempre aberta a dicas e a discussões sobre assuntos da área.</br>
+<p>Sou a Natália Alpino, mas podem me chamar de Nat.
+<p>Sempre fui apaixonada por lógica e em transformar vidas atráves do meu trabalho.
+<p>Então decidi unir isso a minha outra paixão, a tecnologia.
+<p>Adoro aprender novas tecnologias e estar em constante evolução.
+<p>Estou sempre aberta a dicas e a discussões sobre assuntos da área.
 
  <div>
   <a href="https://github.com/NatAlpino">
