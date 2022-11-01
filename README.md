@@ -7,7 +7,7 @@
 <br>Sou a Natália Alpino, mas podem me chamar de Nat.
 <p>Sempre fui apaixonada por lógica e em transformar vidas atráves do meu trabalho.
 <br>Então decidi unir isso a minha outra paixão, a tecnologia.
-<p>Hoje sou estudante de Engenharia de Software e Desenvolvedora FrontEnd no LuizaLabs![image](https://user-images.githubusercontent.com/90108943/199243668-fabb5667-0a67-4af4-b9e8-b0aa269149c1.png).
+<p>Hoje sou estudante de Engenharia de Software e Desenvolvedora FrontEnd no LuizaLabs💙.
 
 <p>Adoro aprender novas tecnologias e estar em constante evolução.
 <br>Estou sempre aberta a dicas e a discussões sobre assuntos da área.
