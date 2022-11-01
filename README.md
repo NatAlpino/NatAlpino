@@ -6,7 +6,7 @@
 
 <br>Sou a Natália Alpino, mas podem me chamar de Nat.<br/>
 <br>Sempre fui apaixonada por lógica e em transformar vidas atráves do meu trabalho.<br/>
-<b>Então decidi unir isso a minha outra paixão, a tecnologia.</b>
+<br>Então decidi unir isso a minha outra paixão, a tecnologia.</br>
 <br>Adoro aprender novas tecnologias e estar em constante evolução.</br>
 <br>Estou sempre aberta a dicas e a discussões sobre assuntos da área.</br>
 
